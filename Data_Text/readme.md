@@ -9,3 +9,8 @@ Mercedes New Actros Gigaspace 625 hp 460kW 16 speeds Crawler Carrier 10 t Graz t
 DAF NGD XG+ 530 hp 390kW 12 speeds Clothes 15 t Stuttgart to Frankfurt
 
 Renault T High Sleeper 440 hp 324kW 12 speeds Electronics 8 t Brno to Prague
+
+Scania S High Roof 770 hp 566kW 14 speeds Material Handler 36 t Amsterdam to Kiel
+
+MAN TGX Euro 5 XLX 480 hp 353kW 12 speeds Backhoe Loader 8 t Vienna to Salzburg
+
