@@ -14,3 +14,5 @@ Scania S High Roof 770 hp 566kW 14 speeds Material Handler 36 t Amsterdam to Kie
 
 MAN TGX Euro 5 XLX 480 hp 353kW 12 speeds Backhoe Loader 8 t Vienna to Salzburg
 
+Volvo FH6 Aero Globetrotter XL 700 hp 515kW 12 speeds Locomotive CZ LOKO EffiShunter 1000 16.3 x 3.1 x 4.6 m & 80 t Bremen to Travemunde
+
