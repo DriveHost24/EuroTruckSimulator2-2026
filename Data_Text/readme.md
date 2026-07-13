@@ -21,3 +21,9 @@ Scania R High Roof 730 hp 537kW 14 speeds Industrial Cable Reel 34 t Frankfurt t
 Volvo FH6 Aero Globetrotter XL 780 hp 564kW 12 speeds Fuel Oil 25 t Vienna to Linz
 
 MAN TGX Euro 5 XLX 680 hp 500kW 16 speeds Excavator Volvo EW240E MH 26 t Lyon to Bern
+
+Scania S High Roof 770 hp 566kW 14 speeds Dozer Crawl 39 t Wroclaw to Poznan
+
+Scania Streamline Topline 730 hp 537kW 14 speeds Excavator Volvo EW240E MH 26 t Munich to Nuremberg
+
+Volvo FH6 Aero Globetrotter XL 700 hp 515kW 12 speeds Locomotive CZ LOKO EffiShunter 1000 16.3 x 3.1 x 4.6 m & 80 t Bremen to Travemunde
