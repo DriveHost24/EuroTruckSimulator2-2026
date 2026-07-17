@@ -29,3 +29,5 @@ Scania Streamline Topline 730 hp 537kW 14 speeds Excavator Volvo EW240E MH 26 t 
 Volvo FH6 Aero Globetrotter XL 700 hp 515kW 12 speeds Locomotive CZ LOKO EffiShunter 1000 16.3 x 3.1 x 4.6 m & 80 t Bremen to Travemunde
 
 DAF NGD XG+ 530 hp 390kW 12 speeds Industrial Cable Reel 34 t Kiel to Osnabruck
+
+Mercedes New Actros GigaSpace 625 hp 460kW 16 speeds Wind Turbine Blade 25.3 x 3.1 x 4.6 m & 5 t Rostock to Berlin
