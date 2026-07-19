@@ -31,3 +31,7 @@ Volvo FH6 Aero Globetrotter XL 700 hp 515kW 12 speeds Locomotive CZ LOKO EffiShu
 DAF NGD XG+ 530 hp 390kW 12 speeds Industrial Cable Reel 34 t Kiel to Osnabruck
 
 Mercedes New Actros GigaSpace 625 hp 460kW 16 speeds Wind Turbine Blade 25.3 x 3.1 x 4.6 m & 5 t Rostock to Berlin
+
+Renault T High Sleeper 520 hp 382kW 14 speeds Underground Loader 12.0 x 3.1 x 3.1 m & 54 t Dortmund to Hanover
+
+DAF NGD XG+ 530 hp 390kW 12 speeds Service Boat 16.1 x 5.0 x 5.3 m & 25 t Brussels to Amsterdam
