@@ -35,3 +35,5 @@ Mercedes New Actros GigaSpace 625 hp 460kW 16 speeds Wind Turbine Blade 25.3 x 3
 Renault T High Sleeper 520 hp 382kW 14 speeds Underground Loader 12.0 x 3.1 x 3.1 m & 54 t Dortmund to Hanover
 
 DAF NGD XG+ 530 hp 390kW 12 speeds Service Boat 16.1 x 5.0 x 5.3 m & 25 t Brussels to Amsterdam
+
+Scania S High Roof 770 hp 566kW 14 speeds Forwarder 20 t Bratislava to Nuremberg
