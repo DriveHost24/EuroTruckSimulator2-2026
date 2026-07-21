@@ -37,3 +37,5 @@ Renault T High Sleeper 520 hp 382kW 14 speeds Underground Loader 12.0 x 3.1 x 3.
 DAF NGD XG+ 530 hp 390kW 12 speeds Service Boat 16.1 x 5.0 x 5.3 m & 25 t Brussels to Amsterdam
 
 Scania S High Roof 770 hp 566kW 14 speeds Forwarder 20 t Bratislava to Nuremberg
+
+Scania S High Roof 770 hp 566kW 14 speeds Articulated Hauler Volvo A25G 25 t Salzburg to Rostock
