@@ -39,3 +39,7 @@ DAF NGD XG+ 530 hp 390kW 12 speeds Service Boat 16.1 x 5.0 x 5.3 m & 25 t Brusse
 Scania S High Roof 770 hp 566kW 14 speeds Forwarder 20 t Bratislava to Nuremberg
 
 Scania S High Roof 770 hp 566kW 14 speeds Articulated Hauler Volvo A25G 25 t Salzburg to Rostock
+
+Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds Concrete Beams 14 t Bratislava to Brno
+
+Scania S High Roof 730 hp 537kW 14 speeds Mulcher 14 t Dortmund to Kassel
