@@ -43,3 +43,7 @@ Scania S High Roof 770 hp 566kW 14 speeds Articulated Hauler Volvo A25G 25 t Sal
 Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds Concrete Beams 14 t Bratislava to Brno
 
 Scania S High Roof 730 hp 537kW 14 speeds Mulcher 14 t Dortmund to Kassel
+
+DAF NGD XG+ 530 hp 390kW 12 speeds Olives 18 t Turin to Milan
+
+MAN TGX GX 640 hp 471kW 12 speeds Concrete Beams 51 t Amsterdam to Rotterdam
