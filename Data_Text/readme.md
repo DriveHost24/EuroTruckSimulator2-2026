@@ -47,3 +47,11 @@ Scania S High Roof 730 hp 537kW 14 speeds Mulcher 14 t Dortmund to Kassel
 DAF NGD XG+ 530 hp 390kW 12 speeds Olives 18 t Turin to Milan
 
 MAN TGX GX 640 hp 471kW 12 speeds Concrete Beams 51 t Amsterdam to Rotterdam
+
+DAF NGD XG+ 530 hp 390kW 12 speeds Canned Iced Coffee 21 t Salzburg to Linz
+
+MAN TGX Euro 5 XLX 480 hp 353kW 12 speeds Diesel 23 t Hamburg to Kiel
+
+Renault T High Sleeper 440 hp 324kW 12 speeds Iron Pipes 20 t Nuremberg to Mannheim
+
+Scania S High Roof 770 hp 566kW 14 speeds Mobile Crane 36 t Brno to Vienna
