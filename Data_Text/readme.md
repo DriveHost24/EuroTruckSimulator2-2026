@@ -55,3 +55,9 @@ MAN TGX Euro 5 XLX 480 hp 353kW 12 speeds Diesel 23 t Hamburg to Kiel
 Renault T High Sleeper 440 hp 324kW 12 speeds Iron Pipes 20 t Nuremberg to Mannheim
 
 Scania S High Roof 770 hp 566kW 14 speeds Mobile Crane 36 t Brno to Vienna
+
+DAF NGD XG+ 530 hp 390kW 12 speeds Carrots 18 t Magdeburg to Magdeburg
+
+Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds Potatoes 22 t Osnabruck to Kassel
+
+Mercedes New Actros GigaSpace 625 hp 460kW 16 speeds Locomotive CZLOKOEffiShunter 1000 16.3x3.1x4.6m & 80t Berlin to Szczecin
