@@ -61,3 +61,7 @@ DAF NGD XG+ 530 hp 390kW 12 speeds Carrots 18 t Magdeburg to Magdeburg
 Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds Potatoes 22 t Osnabruck to Kassel
 
 Mercedes New Actros GigaSpace 625 hp 460kW 16 speeds Locomotive CZLOKOEffiShunter 1000 16.3x3.1x4.6m & 80t Berlin to Szczecin
+
+Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds logs 24 t Leipzig to Berlin
+
+DAF NGD XG+ 530 hp 390kW 12 speeds Scrap Metals 21 t Kiel to Hamburg
