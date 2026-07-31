@@ -65,3 +65,7 @@ Mercedes New Actros GigaSpace 625 hp 460kW 16 speeds Locomotive CZLOKOEffiShunte
 Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds logs 24 t Leipzig to Berlin
 
 DAF NGD XG+ 530 hp 390kW 12 speeds Scrap Metals 21 t Kiel to Hamburg
+
+Scania S High Roof 660 hp 485kW 14 speeds Cottage Cheese 15 t Travemunde to Rostock
+
+Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds Furniture 16 t Hanover to Magdeburg
